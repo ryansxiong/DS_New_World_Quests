@@ -40,7 +40,8 @@ I analyzed the distributions of the data and the value counts of all the categor
 ![Screenshot (26)](https://user-images.githubusercontent.com/91089401/144119975-e1281000-104d-4109-8129-1b6c3730d5eb.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot (29)](https://user-images.githubusercontent.com/91089401/144121668-a87fb856-c157-4f2e-b315-51c36727d572.png)
-[Screenshot (28)](https://user-images.githubusercontent.com/91089401/144120029-8ebb9fec-c2de-4e9a-8e42-08a962de443e.png)
+
+![Screenshot (28)](https://user-images.githubusercontent.com/91089401/144121750-d9d9f8a1-3ed1-4f63-acfa-10484a58d5ab.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Looking at lower lvl quests (1-25) the main focus should be side and town quests. When you become level 16 and above in the lower levels, your main focus should be main quests.**
 
