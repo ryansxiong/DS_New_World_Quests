@@ -34,7 +34,7 @@ I analyzed the distributions of the data and the value counts of all the categor
 * Tableau link: https://public.tableau.com/app/profile/ryan.xiong/viz/NewWorldDSproject/Dashboard1?publish=yes
 ![Screenshot (20)](https://user-images.githubusercontent.com/91089401/144116126-4bdde6cc-cb85-4a71-99df-d07a97267f84.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Outliers - There was a drop in average for main quests when looking at outliers within the top 2.5% (With the change of avgerage xp per quest type starting from 1850xp per quest versus without outliers dropping to 863xp per quest) Main quests seem to provide more value per quest.**
+**Outliers - There was a drop in the average for main quests when looking at outliers within the top 2.5% (With the change of avgerage xp per quest type starting from 1850xp per quest versus without outliers dropping to 863xp per quest) Main quests seem to provide more value per quest.**
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/91089401/144119999-8c3da356-acf1-4e23-a4a5-9e1c006ced07.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/91089401/144119975-e1281000-104d-4109-8129-1b6c3730d5eb.png)
