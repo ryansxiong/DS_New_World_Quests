@@ -1,5 +1,5 @@
 # New World Quests DS
-* Looking to see which quests a new player should focus on completing to level up the fastest. (Help the new player experience)
+Looking to see which quests a new player should focus on completing to level up the fastest. (Help the new player experience)
 
 ## Codes and Resources Used
 * **Python Version**: 3.8
