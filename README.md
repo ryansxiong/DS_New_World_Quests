@@ -34,17 +34,18 @@ I analyzed the distributions of the data and the value counts of all the categor
 * Outliers - main seems to have alot of quests that are within the top 2.5% (With the change of avg xp per quest type starting from 1850xp per quest versus without outliers dropping to 863xp per quest) Main quests seem to provide more value per quest.
 
 Looking at lower lvl quests (1-25) the main focus should be side and town quests. When you become level 16 and above in the lower levels, your main focus should be main quests.
-     ![Screenshot (30)](https://user-images.githubusercontent.com/91089401/144118718-da409a66-202f-41b8-a611-3b17b39b82d8.png)
+
+![Screenshot (30)](https://user-images.githubusercontent.com/91089401/144118718-da409a66-202f-41b8-a611-3b17b39b82d8.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/91089401/144118215-fdc3369f-0d59-4598-8d0f-5e406317558b.png)
 
 Looking at the mid levels (26-45) the main focus should be on main quests. 
 
-     ![Screenshot (27)](https://user-images.githubusercontent.com/91089401/144118269-339d80bd-1fd9-496d-9ddc-d42db327486b.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/91089401/144118269-339d80bd-1fd9-496d-9ddc-d42db327486b.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/91089401/144118303-17b0ad72-a230-4a84-a069-f92e29b6b4d0.png)
 
 Looking at high level quests (46-60) the main focus here is also the main quests.
 
-     ![Screenshot (29)](https://user-images.githubusercontent.com/91089401/144118365-6e8995b8-f6c7-4e38-9fb3-118505a1d1d0.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/91089401/144118365-6e8995b8-f6c7-4e38-9fb3-118505a1d1d0.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/91089401/144118384-22018675-5000-4c62-b2c7-b479c82a5884.png)
 
 ## Conclusions 
