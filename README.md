@@ -11,6 +11,8 @@ Looking to see which quests a new player should focus on completing to level up 
 * Used selenium to webscrape data from https://nwdb.info/
 * During the process, I noticed that the quest type was not defined in the data. I ended up adjusting the code to scrape the data separately for each type of quest (main, side, town, faction).
 
+_The code can be found in the folder labeled **New World ds webscraper.ipynb**_
+
 ## Data Cleaning
 After scraping the data, I cleaned the data for analysis. I made the following changes:
 
@@ -23,7 +25,7 @@ After scraping the data, I cleaned the data for analysis. I made the following c
 * changed the dtypes for the columns 'level' and 'xp' to integers
 * separated levels into different sections (low [lvl 1-25], med [lvl 26-45], high [lvl 46-60])
 
-The code can be found in the folder labeled **New_World_Quests_DS_proj.ipynb**.
+_The code can be found in the folder labeled **New_World_Quests_DS_proj.ipynb**_
 
 ## EDA
 I analyzed the distributions of the data and the value counts of all the categorical variables to find if there were any trends. Below you will find the link to a dashboard that I created on tableau as well as some analysis on the data.
