@@ -30,9 +30,13 @@ I analyzed the distributions of the data and the value counts of all the categor
 * Tableau link: https://public.tableau.com/app/profile/ryan.xiong/viz/NewWorldDSproject/Dashboard1?publish=yes
 ![Screenshot (20)](https://user-images.githubusercontent.com/91089401/144116126-4bdde6cc-cb85-4a71-99df-d07a97267f84.png)
 
-
 * Outliers - main seems to have alot of quests that are within the top 2.5% (With the change of avg xp per quest type starting from 1850xp per quest versus without outliers dropping to 863xp per quest) Main quests seem to provide more value per quest.
 
+![Screenshot (26)](https://user-images.githubusercontent.com/91089401/144119975-e1281000-104d-4109-8129-1b6c3730d5eb.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/91089401/144119999-8c3da356-acf1-4e23-a4a5-9e1c006ced07.png)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot (28)](https://user-images.githubusercontent.com/91089401/144120029-8ebb9fec-c2de-4e9a-8e42-08a962de443e.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/91089401/144120045-c37000bf-f151-420c-a3a1-dd47736925bb.png)
 
 **Looking at lower lvl quests (1-25) the main focus should be side and town quests. When you become level 16 and above in the lower levels, your main focus should be main quests.**
 
@@ -46,7 +50,7 @@ I analyzed the distributions of the data and the value counts of all the categor
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/91089401/144118269-339d80bd-1fd9-496d-9ddc-d42db327486b.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/91089401/144118303-17b0ad72-a230-4a84-a069-f92e29b6b4d0.png)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Looking at high level quests (46-60), the main focus here is also the main quests.**
 
