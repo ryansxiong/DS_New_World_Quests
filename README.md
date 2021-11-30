@@ -37,6 +37,7 @@ Looking at lower lvl quests (1-25) the main focus should be side and town quests
 
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/91089401/144118718-da409a66-202f-41b8-a611-3b17b39b82d8.png)
+
 ![Screenshot (24)](https://user-images.githubusercontent.com/91089401/144118215-fdc3369f-0d59-4598-8d0f-5e406317558b.png)
 
 Looking at the mid levels (26-45) the main focus should be on main quests. 
