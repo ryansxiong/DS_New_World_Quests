@@ -27,7 +27,7 @@ After scraping the data, I cleaned the data for analysis. I made the following c
 I analyzed the distributions of the data and the value counts of all the categorical variables to find if there were any trends. Below you will find the link to a dashboard that I created on tableau as well as some analysis on the data.
 
 * The dashboard allows you to view the averages of xp per quest type for every level
-https://public.tableau.com/app/profile/ryan.xiong/viz/NewWorldDSproject/Dashboard1?publish=yes
+* Tableau link: https://public.tableau.com/app/profile/ryan.xiong/viz/NewWorldDSproject/Dashboard1?publish=yes
 ![Screenshot (20)](https://user-images.githubusercontent.com/91089401/144116126-4bdde6cc-cb85-4a71-99df-d07a97267f84.png)
 
 
